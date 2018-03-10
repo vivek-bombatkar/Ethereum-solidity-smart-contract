@@ -6,3 +6,7 @@ http://remix.ethereum.org
 
 ### Ethereum Natural Specification Format
 https://github.com/ethereum/wiki/wiki/Ethereum-Natural-Specification-Format
+
+### My learning resources
+https://github.com/magonicolas/Ethereum-Solidity
+https://www.youtube.com/watch?v=UujjTmkjWI8
