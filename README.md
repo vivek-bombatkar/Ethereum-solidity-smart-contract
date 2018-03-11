@@ -11,6 +11,14 @@ https://github.com/ethereum/wiki/wiki/Ethereum-Natural-Specification-Format
 https://github.com/magonicolas/Ethereum-Solidity
 https://www.youtube.com/watch?v=kWZ_XLZ61yg
 
+https://www.youtube.com/watch?v=aV8C77xAaQA
+https://www.youtube.com/watch?v=289EzMOHYnQ
+https://www.youtube.com/watch?v=Li0Loy8VRp4
+https://github.com/turboprep/geth-tutorial/tree/master/voting2
+
+
+
+
 
 ### Geth
 Geth is the C L I or command line interface for running a full Ethereum node.
