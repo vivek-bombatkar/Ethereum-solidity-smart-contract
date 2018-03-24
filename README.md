@@ -21,7 +21,9 @@ https://github.com/turboprep/geth-tutorial/tree/master/voting2
 
 
 ### Geth
-Geth is the C L I or command line interface for running a full Ethereum node.
+https://geth.ethereum.org/downloads/
+
+Geth is the C L I or command line interface for running a full Ethereum node, also works with windows cmd.
 
 geth console:
 ```
