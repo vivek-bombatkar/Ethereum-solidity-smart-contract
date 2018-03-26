@@ -16,10 +16,6 @@ https://www.youtube.com/watch?v=289EzMOHYnQ
 https://www.youtube.com/watch?v=Li0Loy8VRp4
 https://github.com/turboprep/geth-tutorial/tree/master/voting2
 
-
-
-
-
 ### Geth
 https://geth.ethereum.org/downloads/
 
@@ -85,4 +81,8 @@ https://www.youtube.com/watch?v=qChbuhCQBBg
 
 https://ethereum.github.io/browser-solidity/#optimize=false&version=soljson-v0.4.21+commit.dfe3193c.js
 
+
+### TODO
+Run contract on private blockchain with Geth.
+Build Custom logic for validations.
 
