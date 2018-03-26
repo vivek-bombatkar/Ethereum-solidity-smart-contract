@@ -69,3 +69,20 @@ console
   
 personal.unlockAccount(eth.accounts[0])  
 
+```
+
+### sample smart contract
+
+
+https://www.youtube.com/watch?v=289EzMOHYnQ
+https://www.youtube.com/watch?v=aV8C77xAaQA
+https://www.youtube.com/watch?v=Li0Loy8VRp4
+
+https://github.com/turboprep/geth-tutorial/tree/master/voting2
+
+https://www.youtube.com/watch?v=V457ca7nxgU
+https://www.youtube.com/watch?v=qChbuhCQBBg
+
+https://ethereum.github.io/browser-solidity/#optimize=false&version=soljson-v0.4.21+commit.dfe3193c.js
+
+
