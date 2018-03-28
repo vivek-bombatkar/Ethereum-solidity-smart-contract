@@ -1,22 +1,21 @@
 # ethereum-smart-contract-My-learning-notes
 ethereum smart contract My learning notes
 
-### Online portal to practice smart contract
+### 1. Online portal to practice smart contract
 http://remix.ethereum.org
+
+<img src="./pics/a_complie_contract.JPG" width="300" height="200" />
+<img src="./pics/b_complie_contract.JPG" width="300" height="200" />
+<img src="./pics/c_publish_contract_on_blockchain.JPG" width="300" height="200" />
+<img src="./pics/d_execute_contract.JPG" width="300" height="200" />
+<img src="./pics/e_debuging_execution_logs.JPG" width="300" height="200" />
+
 
 ### Ethereum Natural Specification Format
 https://github.com/ethereum/wiki/wiki/Ethereum-Natural-Specification-Format
 
-### My learning resources
-https://github.com/magonicolas/Ethereum-Solidity
-https://www.youtube.com/watch?v=kWZ_XLZ61yg
 
-https://www.youtube.com/watch?v=aV8C77xAaQA
-https://www.youtube.com/watch?v=289EzMOHYnQ
-https://www.youtube.com/watch?v=Li0Loy8VRp4
-https://github.com/turboprep/geth-tutorial/tree/master/voting2
-
-### Geth
+### 2. Geth
 https://geth.ethereum.org/downloads/
 
 Geth is the C L I or command line interface for running a full Ethereum node, also works with windows cmd.
@@ -67,13 +66,13 @@ personal.unlockAccount(eth.accounts[0])
 
 ```
 
-### sample smart contract
+### 3. My learning resources
+https://github.com/magonicolas/Ethereum-Solidity
+https://www.youtube.com/watch?v=kWZ_XLZ61yg
 
-
-https://www.youtube.com/watch?v=289EzMOHYnQ
 https://www.youtube.com/watch?v=aV8C77xAaQA
+https://www.youtube.com/watch?v=289EzMOHYnQ
 https://www.youtube.com/watch?v=Li0Loy8VRp4
-
 https://github.com/turboprep/geth-tutorial/tree/master/voting2
 
 https://www.youtube.com/watch?v=V457ca7nxgU
