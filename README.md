@@ -22,8 +22,11 @@ http://remix.ethereum.org
 <img src="./pics/e_debuging_execution_logs.JPG" width="300" height="200" />
 
 #### 1.6 We could call a contract by specifing its address insted of creating new opbject, 
+```
 new CalledContract(); VS CalledContract(0x0dcd2f752394c41875e259e00bb44fd505297caf);
+```
 <img src="./pics/f_call_contract_by_address.JPG" width="300" height="200" />
+
 <img src="./pics/g_call_contract_by_address.JPG" width="300" height="200" />
  
  
