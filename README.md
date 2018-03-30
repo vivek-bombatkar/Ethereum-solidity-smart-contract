@@ -4,22 +4,29 @@ ethereum smart contract My learning notes
 ### 1. Online portal to practice smart contract
 http://remix.ethereum.org
 
-Write code in editor...
+#### 1.1 Write code in editor...
 
 <img src="./pics/a_complie_contract.JPG" width="300" height="200" />
-Hit "Start to compile" in "Compile" tab, in between to validate code.
+#### 1.2 Hit "Start to compile" in "Compile" tab, in between to validate code.
 
 <img src="./pics/b_complie_contract.JPG" width="300" height="200" />
-To deploy contract on blockchain, select name of the contarct from drop down and hit "Create" from "Run" tab.
+#### 1.3 To deploy contract on blockchain, select name of the contarct from drop down and hit "Create" from "Run" tab. With this each contract gets its unique address representing the block index of blockchain.
+
 
 <img src="./pics/c_publish_contract_on_blockchain.JPG" width="300" height="200" />
-You will see the contract deployed and ready to execute...
+#### 1.4 You will see the contract deployed and ready to execute...
 
 <img src="./pics/d_execute_contract.JPG" width="300" height="200" />
-Do watch the debug messages for better understanding.
+#### 1.5 Do watch the debug messages for better understanding.
 
 <img src="./pics/e_debuging_execution_logs.JPG" width="300" height="200" />
 
+#### 1.6 We could call a contract by specifing its address insted of creating new opbject, 
+new CalledContract(); VS CalledContract(0x0dcd2f752394c41875e259e00bb44fd505297caf);
+<img src="./pics/f_call_contract_by_address.JPG" width="300" height="200" />
+<img src="./pics/g_call_contract_by_address.JPG" width="300" height="200" />
+ 
+ 
 
 ### Ethereum Natural Specification Format
 https://github.com/ethereum/wiki/wiki/Ethereum-Natural-Specification-Format
