@@ -34,16 +34,13 @@ new CalledContract(); VS CalledContract(0x0dcd2f752394c41875e259e00bb44fd505297c
 
 <img src="./pics/g_call_contract_by_address.JPG" width="300" height="200" />
  
- 
-
-### Ethereum Natural Specification Format
-https://github.com/ethereum/wiki/wiki/Ethereum-Natural-Specification-Format
-
 
 ### 2. Geth
-https://geth.ethereum.org/downloads/
 
 Geth is the C L I or command line interface for running a full Ethereum node, also works with windows cmd.
+
+https://geth.ethereum.org/downloads/
+
 
 geth console:
 ```
@@ -91,6 +88,10 @@ personal.unlockAccount(eth.accounts[0])
 
 ```
 
+
+#### Ethereum Natural Specification Format
+https://github.com/ethereum/wiki/wiki/Ethereum-Natural-Specification-Format
+
 ### 3. My learning resources
 https://github.com/magonicolas/Ethereum-Solidity
 https://www.youtube.com/watch?v=kWZ_XLZ61yg
@@ -104,6 +105,8 @@ https://www.youtube.com/watch?v=V457ca7nxgU
 https://www.youtube.com/watch?v=qChbuhCQBBg
 
 https://ethereum.github.io/browser-solidity/#optimize=false&version=soljson-v0.4.21+commit.dfe3193c.js
+
+https://medium.com/etherereum-salon/hello-ethereum-solan-contract-4643118a6119
 
 
 ### TODO
