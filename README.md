@@ -4,31 +4,43 @@ ethereum smart contract My learning notes
 ### 1. Online portal to practice smart contract
 http://remix.ethereum.org
 
-Write code in editor...
+
+#### 1.1 Write code in editor...
 
 <img src="./pics/a_complie_contract.JPG" width="300" height="200" />
-Hit "Start to compile" in "Compile" tab, in between to validate code.
+
+#### 1.2 Hit "Start to compile" in "Compile" tab, in between to validate code.
 
 <img src="./pics/b_complie_contract.JPG" width="300" height="200" />
-To deploy contract on blockchain, select name of the contarct from drop down and hit "Create" from "Run" tab.
+
+#### 1.3 To deploy contract on blockchain, select name of the contarct from drop down and hit "Create" from "Run" tab. With this each contract gets its unique address representing the block index of blockchain.
+
 
 <img src="./pics/c_publish_contract_on_blockchain.JPG" width="300" height="200" />
-You will see the contract deployed and ready to execute...
+
+#### 1.4 You will see the contract deployed and ready to execute...
 
 <img src="./pics/d_execute_contract.JPG" width="300" height="200" />
-Do watch the debug messages for better understanding.
+
+#### 1.5 Do watch the debug messages for better understanding.
 
 <img src="./pics/e_debuging_execution_logs.JPG" width="300" height="200" />
 
+#### 1.6 We could call a contract by specifing its address insted of creating new opbject, 
+```
+new CalledContract(); VS CalledContract(0x0dcd2f752394c41875e259e00bb44fd505297caf);
+```
+<img src="./pics/f_call_contract_by_address.JPG" width="300" height="200" />
 
-### Ethereum Natural Specification Format
-https://github.com/ethereum/wiki/wiki/Ethereum-Natural-Specification-Format
-
+<img src="./pics/g_call_contract_by_address.JPG" width="300" height="200" />
+ 
 
 ### 2. Geth
-https://geth.ethereum.org/downloads/
 
 Geth is the C L I or command line interface for running a full Ethereum node, also works with windows cmd.
+
+https://geth.ethereum.org/downloads/
+
 
 geth console:
 ```
@@ -76,6 +88,10 @@ personal.unlockAccount(eth.accounts[0])
 
 ```
 
+
+#### Ethereum Natural Specification Format
+https://github.com/ethereum/wiki/wiki/Ethereum-Natural-Specification-Format
+
 ### 3. My learning resources
 https://github.com/magonicolas/Ethereum-Solidity
 https://www.youtube.com/watch?v=kWZ_XLZ61yg
@@ -89,6 +105,8 @@ https://www.youtube.com/watch?v=V457ca7nxgU
 https://www.youtube.com/watch?v=qChbuhCQBBg
 
 https://ethereum.github.io/browser-solidity/#optimize=false&version=soljson-v0.4.21+commit.dfe3193c.js
+
+https://medium.com/etherereum-salon/hello-ethereum-solan-contract-4643118a6119
 
 
 ### TODO
