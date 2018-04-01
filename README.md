@@ -110,6 +110,9 @@ https://medium.com/etherereum-salon/hello-ethereum-solan-contract-4643118a6119
 
 
 ### TODO
-Run contract on private blockchain with Geth.
+- Run contract on private blockchain with Geth.
 Build Custom logic for validations.
 
+- Build DAP with python
+
+https://medium.com/python-pandemonium/develop-your-first-python-app-for-decentralized-stellar-network-7eb6eeae060a
